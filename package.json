@@ -23,7 +23,7 @@
     "react-native-grid-component": "^2.0.1",
     "react-native-keyboard-spacer": "^0.4.1",
     "react-native-modals": "^0.19.9",
-    "react-native-reanimated": "~1.4.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-router-flux": "^4.2.0",
     "react-native-screens": "2.0.0-alpha.12",
     "react-native-view-overflow": "0.0.5",
